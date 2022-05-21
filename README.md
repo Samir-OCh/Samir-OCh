@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samir-OCh
+- 👋 Hi, I’m @Samir-OCh a Tech Nomad 
 - 👀 I’m interested in Software 💻 , Art 🎭 & Mechatronics 🦾
 - 🌱 I’m currently learning about Artificial Intelligence, Internet of Things and Product Design 
 - 💞️ I’m looking to collaborate on Python Projects
